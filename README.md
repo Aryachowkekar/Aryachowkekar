@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arya Chowkekar</h1>
-<h3 align="center">Cybersecurity Enthusiast | CEH v13 | eJPT | Web & Network Pentester</h3>
+<h3 align="center">Cybersecurity Researcher | CEH v13 | eJPT | Web & Network Pentester</h3>
 
 <p align="center">
   🔐 Passionate about offensive security, red teaming, and real-world vulnerability assessment.<br>
